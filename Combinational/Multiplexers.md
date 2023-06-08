@@ -1,3 +1,20 @@
+4X1 MULTIPLEXER WITH CONDITIONAL OPERATOR
+
+![image](https://github.com/ravalika-karnati/VerilogTutorial/assets/131842119/8b13969d-16c1-445d-bfa1-44369e4ee82d)
+
+
+4X1 MULTIPLEXER WITH IF STATEMENTS
+
+![image](https://github.com/ravalika-karnati/VerilogTutorial/assets/131842119/9c02e62a-b5d9-4485-a7fe-edb84cc42b20)
+
+
+4X1 MULTIPLEXER WITH CASE STATEMENTS
+
+![image](https://github.com/ravalika-karnati/VerilogTutorial/assets/131842119/7411982c-0a2d-4c65-9100-59c3f9817665)
+
+
+
+
 MULTIPLEXERS
 
 Multiplexer is a combinational circuit that has maximum of 2n data inputs, ‘n’ selection lines and single output line. One of these data inputs will be connected to the output based on the values of selection lines.
